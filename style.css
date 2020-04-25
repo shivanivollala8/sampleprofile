@@ -1,0 +1,33 @@
+h1{
+    margin-left: 200px;
+    margin-right: 200px;
+} 
+body{
+    background-color: #00ffff;
+    text-align: center;
+    border: 5px solid;
+    border-style: outset;
+}
+
+#age:focus{
+    background-color: aquamarine;
+}
+#name:focus{
+    background-color: aquamarine;
+}
+#email:focus{
+    background-color: aquamarine;
+}
+#role:focus{
+    background-color: rgb(141, 238, 178);
+}
+#submit:hover{
+   cursor: pointer;
+    background-color: lightgreen;
+}
+#like:focus{
+    background-color: aquamarine;
+}
+h1{
+   color:rgb(70, 0, 70) ;  
+}
